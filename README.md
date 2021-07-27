@@ -63,13 +63,13 @@ on your OS, they may already be installed:
 - Install node (v14 recommended)
 - Install npm
 - Install the latest Rust stable from https://rustup.rs/
-- Install Solana v1.6.6 or later from
+- Install Solana v1.7.8 or later from
   https://docs.solana.com/cli/install-solana-cli-tools
 
 If this is your first time using Rust, these [Installation
 Notes](README-installation-notes.md) might be helpful.
 
-### Configure CLI 
+### Configure CLI
 
 1. Set CLI config url to localhost cluster
 
@@ -242,7 +242,7 @@ The program is written using:
 To learn more about Solana programming model refer to the [Programming Model
 Overview](https://docs.solana.com/developing/programming-model/overview).
 
-To learn more about developing programs on Solana refer to the [On-Chain 
+To learn more about developing programs on Solana refer to the [On-Chain
 Programs Overview](https://docs.solana.com/developing/on-chain-programs/overview)
 
 ## Pointing to a public Solana cluster
